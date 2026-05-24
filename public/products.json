@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Nike Shoes",
+    "image": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp",
+    "description": "Best Nike shoes for running"
+  },
+
+  {
+    "id": 2,
+    "title": "Headphone",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    "description": "Premium sound quality"
+  },
+
+  {
+    "id": 3,
+    "title": "Laptop",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+    "description": "Powerful laptop for coding"
+  },
+
+  {
+    "id": 4,
+    "title": "Watch",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "Luxury smart watch"
+  },
+
+  {
+    "id": 5,
+    "title": "Camera",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32",
+    "description": "Professional DSLR camera"
+  },
+
+  {
+    "id": 6,
+    "title": "Mobile",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9",
+    "description": "Latest smartphone"
+  }
+]
